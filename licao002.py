@@ -1,0 +1,2 @@
+msg = 'Novo'
+print(msg)
